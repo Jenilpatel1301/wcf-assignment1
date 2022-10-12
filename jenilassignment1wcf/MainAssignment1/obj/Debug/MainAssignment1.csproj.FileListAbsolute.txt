@@ -1,0 +1,8 @@
+C:\wcf-assignment1\wcf-assignment1\jenilassignment1wcf\MainAssignment1\bin\Debug\MainAssignment1.exe.config
+C:\wcf-assignment1\wcf-assignment1\jenilassignment1wcf\MainAssignment1\bin\Debug\MainAssignment1.exe
+C:\wcf-assignment1\wcf-assignment1\jenilassignment1wcf\MainAssignment1\bin\Debug\MainAssignment1.pdb
+C:\wcf-assignment1\wcf-assignment1\jenilassignment1wcf\MainAssignment1\obj\Debug\MainAssignment1.csproj.AssemblyReference.cache
+C:\wcf-assignment1\wcf-assignment1\jenilassignment1wcf\MainAssignment1\obj\Debug\MainAssignment1.csproj.SuggestedBindingRedirects.cache
+C:\wcf-assignment1\wcf-assignment1\jenilassignment1wcf\MainAssignment1\obj\Debug\MainAssignment1.csproj.CoreCompileInputs.cache
+C:\wcf-assignment1\wcf-assignment1\jenilassignment1wcf\MainAssignment1\obj\Debug\MainAssignment1.exe
+C:\wcf-assignment1\wcf-assignment1\jenilassignment1wcf\MainAssignment1\obj\Debug\MainAssignment1.pdb
