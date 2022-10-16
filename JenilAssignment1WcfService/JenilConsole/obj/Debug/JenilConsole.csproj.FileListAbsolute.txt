@@ -1,0 +1,8 @@
+C:\Users\jenil\OneDrive\Desktop\Sem5\Programming Distributed Application\JenilAssignment1WcfService\JenilConsole\bin\Debug\JenilConsole.exe.config
+C:\Users\jenil\OneDrive\Desktop\Sem5\Programming Distributed Application\JenilAssignment1WcfService\JenilConsole\bin\Debug\JenilConsole.exe
+C:\Users\jenil\OneDrive\Desktop\Sem5\Programming Distributed Application\JenilAssignment1WcfService\JenilConsole\bin\Debug\JenilConsole.pdb
+C:\Users\jenil\OneDrive\Desktop\Sem5\Programming Distributed Application\JenilAssignment1WcfService\JenilConsole\obj\Debug\JenilConsole.csproj.AssemblyReference.cache
+C:\Users\jenil\OneDrive\Desktop\Sem5\Programming Distributed Application\JenilAssignment1WcfService\JenilConsole\obj\Debug\JenilConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\jenil\OneDrive\Desktop\Sem5\Programming Distributed Application\JenilAssignment1WcfService\JenilConsole\obj\Debug\JenilConsole.csproj.CoreCompileInputs.cache
+C:\Users\jenil\OneDrive\Desktop\Sem5\Programming Distributed Application\JenilAssignment1WcfService\JenilConsole\obj\Debug\JenilConsole.exe
+C:\Users\jenil\OneDrive\Desktop\Sem5\Programming Distributed Application\JenilAssignment1WcfService\JenilConsole\obj\Debug\JenilConsole.pdb

@@ -1,0 +1,7 @@
+C:\Users\jenil\OneDrive\Desktop\Sem5\Programming Distributed Application\JenilAssignment1WcfService\JenilAssignment1WcfService\bin\JenilAssignment1WcfService.dll.config
+C:\Users\jenil\OneDrive\Desktop\Sem5\Programming Distributed Application\JenilAssignment1WcfService\JenilAssignment1WcfService\bin\JenilAssignment1WcfService.dll
+C:\Users\jenil\OneDrive\Desktop\Sem5\Programming Distributed Application\JenilAssignment1WcfService\JenilAssignment1WcfService\bin\JenilAssignment1WcfService.pdb
+C:\Users\jenil\OneDrive\Desktop\Sem5\Programming Distributed Application\JenilAssignment1WcfService\JenilAssignment1WcfService\obj\Debug\JenilAssignment1WcfService.csproj.AssemblyReference.cache
+C:\Users\jenil\OneDrive\Desktop\Sem5\Programming Distributed Application\JenilAssignment1WcfService\JenilAssignment1WcfService\obj\Debug\JenilAssignment1WcfService.csproj.CoreCompileInputs.cache
+C:\Users\jenil\OneDrive\Desktop\Sem5\Programming Distributed Application\JenilAssignment1WcfService\JenilAssignment1WcfService\obj\Debug\JenilAssignment1WcfService.dll
+C:\Users\jenil\OneDrive\Desktop\Sem5\Programming Distributed Application\JenilAssignment1WcfService\JenilAssignment1WcfService\obj\Debug\JenilAssignment1WcfService.pdb
