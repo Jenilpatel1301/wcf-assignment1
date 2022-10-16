@@ -1,7 +1,0 @@
-C:\wcf-assignment1\wcf-assignment1\jenilassignment1wcf\jenilassignment1wcf\bin\jenilassignment1wcf.dll.config
-C:\wcf-assignment1\wcf-assignment1\jenilassignment1wcf\jenilassignment1wcf\bin\jenilassignment1wcf.dll
-C:\wcf-assignment1\wcf-assignment1\jenilassignment1wcf\jenilassignment1wcf\bin\jenilassignment1wcf.pdb
-C:\wcf-assignment1\wcf-assignment1\jenilassignment1wcf\jenilassignment1wcf\obj\Debug\jenilassignment1wcf.csproj.AssemblyReference.cache
-C:\wcf-assignment1\wcf-assignment1\jenilassignment1wcf\jenilassignment1wcf\obj\Debug\jenilassignment1wcf.csproj.CoreCompileInputs.cache
-C:\wcf-assignment1\wcf-assignment1\jenilassignment1wcf\jenilassignment1wcf\obj\Debug\jenilassignment1wcf.dll
-C:\wcf-assignment1\wcf-assignment1\jenilassignment1wcf\jenilassignment1wcf\obj\Debug\jenilassignment1wcf.pdb
